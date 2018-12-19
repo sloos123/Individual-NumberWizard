@@ -2,7 +2,8 @@
 
 
 ## Individual-NumberWizard2D, guessing game
-Developed on MacOS High Sierra with Unity Version 2018.2.6.f1.
+Developed on MacOS High Sierra with Unity Version 2018.2.12f1.
+Target platform: WebGL
 
 ![wizard](./Screenshots/picture1.png)
 
